@@ -1,0 +1,16 @@
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\bin\Debug\KrestikiNoloki.exe.config
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\bin\Debug\KrestikiNoloki.exe
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\bin\Debug\KrestikiNoloki.pdb
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\KrestikiNoloki.csproj.AssemblyReference.cache
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\KrestikiNoloki.csproj.SuggestedBindingRedirects.cache
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\MainWindow.g.cs
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\App.g.cs
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\KrestikiNoloki_MarkupCompile.cache
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\KrestikiNoloki_MarkupCompile.lref
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\MainWindow.baml
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\KrestikiNoloki.g.resources
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\KrestikiNoloki.Properties.Resources.resources
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\KrestikiNoloki.csproj.GenerateResource.cache
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\KrestikiNoloki.csproj.CoreCompileInputs.cache
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\KrestikiNoloki.exe
+C:\Users\LASHA\Desktop\10 лаба\KrestikiNoloki\obj\Debug\KrestikiNoloki.pdb
